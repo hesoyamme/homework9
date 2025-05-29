@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         Animal[] animals = {
-                Dog.createrDog(),
+                Dog.creatorDog(),
                 new Tiger("Tigran"),
                 new Rabbit("Jo-jo")
         };

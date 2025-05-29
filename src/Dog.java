@@ -3,7 +3,7 @@ public class Dog extends Animal {
         super(name);
     }
 
-    static Dog createrDog() {
+    static Dog creatorDog() {
         return new Dog("Sharik");
     }
 
